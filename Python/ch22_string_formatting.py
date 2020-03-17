@@ -1,7 +1,8 @@
 """
-Challenge: String Formatting
+Challenge:         collections counter
+Link to Challenge: https://www.hackerrank.com/challenges/collections-counter/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 def print_formatted(number):

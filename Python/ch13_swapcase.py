@@ -1,7 +1,8 @@
 """
-Challenge: sWAP cASE
+Challenge:         swap case
+Link to Challenge: https://www.hackerrank.com/challenges/swap-case/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 def swap_case(s):

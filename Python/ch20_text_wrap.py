@@ -1,7 +1,8 @@
 """
-Challenge: Text Wrap
+Challenge:         text wrap
+Link to Challenge: https://www.hackerrank.com/challenges/text-wrap/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 import textwrap

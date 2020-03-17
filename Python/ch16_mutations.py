@@ -1,7 +1,8 @@
 """
-Challenge: Mutations
+Challenge:         python mutations
+Link to Challenge: https://www.hackerrank.com/challenges/python-mutations/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 def mutate_string(string, position, character):

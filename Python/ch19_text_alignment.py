@@ -1,7 +1,8 @@
 """
-Challenge: Text Alignment
+Challenge:         text alignment
+Link to Challenge: https://www.hackerrank.com/challenges/text-alignment/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 thickness = int(input()) # This must be an odd number

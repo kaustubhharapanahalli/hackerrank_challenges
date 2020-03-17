@@ -1,7 +1,8 @@
 """
-Challenge: List Comprehensions
+Challenge:         list comprehension
+Link to Challenge: https://www.hackerrank.com/challenges/list-comprehensions/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 if __name__ == '__main__':

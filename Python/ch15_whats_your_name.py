@@ -1,7 +1,8 @@
 """
-Challenge: What's your name?
+Challenge:         what's your name
+Link to Challenge: https://www.hackerrank.com/challenges/whats-your-name/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 def print_full_name(a, b):

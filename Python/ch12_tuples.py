@@ -1,7 +1,8 @@
 """
-Challenge: Tuples
+Challenge:         python tuples
+Link to Challenge: https://www.hackerrank.com/challenges/python-tuples/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 if __name__ == '__main__':

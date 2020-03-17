@@ -1,7 +1,8 @@
 """
-Challenge: Python If-Else
+Challenge:         if else
+Link to Challenge: https://www.hackerrank.com/challenges/py-if-else/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 N = int(input().strip())

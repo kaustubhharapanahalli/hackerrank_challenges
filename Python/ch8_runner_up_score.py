@@ -1,7 +1,8 @@
 """
-Challenge: Find the Runner-up Score!
+Challenge:         runner up score
+Link to Challenge: https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 if __name__ == '__main__':

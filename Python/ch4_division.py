@@ -1,7 +1,8 @@
 """
-Challenge: Python Division
+Challenge:         python division
+Link to Challenge: hhackerrank.com/challenges/python-division/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 if __name__ == '__main__':

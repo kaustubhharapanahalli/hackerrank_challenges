@@ -1,7 +1,8 @@
 """
-Challenge: Designer Door Mat
+Challenge:         collections counter
+Link to Challenge: https://www.hackerrank.com/challenges/collections-counter/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 n, m = map(int,input().split())

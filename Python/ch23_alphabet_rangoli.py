@@ -1,7 +1,8 @@
 """
-Challenge: Alphabet Rangoli
+Challenge:         collections counter
+Link to Challenge: https://www.hackerrank.com/challenges/collections-counter/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 import string

@@ -1,7 +1,8 @@
 """
-Challenge: Nested Lists
+Challenge:         nested lists
+Link to Challenge: https://www.hackerrank.com/challenges/nested-list/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 if __name__ == '__main__':

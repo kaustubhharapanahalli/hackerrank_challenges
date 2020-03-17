@@ -1,7 +1,8 @@
 """
-Challenge: String Validators
+Challenge:         string validators
+Link to Challenge: https://www.hackerrank.com/challenges/string-validators/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 if __name__ == '__main__':

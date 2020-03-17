@@ -1,7 +1,8 @@
 """
-Challenge: Loops
+Challenge:         python loops
+Link to Challenge: https://www.hackerrank.com/challenges/python-loops/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 if __name__ == '__main__':

@@ -1,7 +1,8 @@
 """
-Challenge: Find a String
+Challenge:         find a string
+Link to Challenge: https://www.hackerrank.com/challenges/find-a-string/problem
 
-Author:    Kaustubh M. Harapanahalli
+Author:            Kaustubh M. Harapanahalli
 """
 
 def count_substring(string, sub_string):
