@@ -1,10 +1,9 @@
 """
-Challenge:         collections counter
+Challenge:         itertools permutations
 Link to Challenge: https://www.hackerrank.com/challenges/itertools-permutations/problem
 
 Author:            Kaustubh M. Harapanahalli
 """
-
 
 from itertools import permutations
 

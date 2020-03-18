@@ -5,8 +5,10 @@ Link to Challenge: https://www.hackerrank.com/challenges/python-mutations/proble
 Author:            Kaustubh M. Harapanahalli
 """
 
+
 def mutate_string(string, position, character):
     return string[0:position] + character + string[position+1:]
+
 
 if __name__ == '__main__':
     s = input()

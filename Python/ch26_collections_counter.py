@@ -20,6 +20,5 @@ for i in range(number_of_customer):
     if counts_of_size[customer_query_size] != 0:
         counts_of_size[customer_query_size] -= 1
         total_price += price_paid
-        
-print(total_price)
 
+print(total_price)

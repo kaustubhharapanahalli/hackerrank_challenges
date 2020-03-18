@@ -1,6 +1,6 @@
 """
-Challenge:         collections counter
-Link to Challenge: https://www.hackerrank.com/challenges/collections-counter/problem
+Challenge:         itertools product
+Link to Challenge: https://www.hackerrank.com/challenges/itertools-product/problem
 
 Author:            Kaustubh M. Harapanahalli
 """

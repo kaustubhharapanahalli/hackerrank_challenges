@@ -15,14 +15,14 @@ if __name__ == '__main__':
         name = input()
         score = float(input())
         scores.append(score)
-        details.append([name,score])
+        details.append([name, score])
     min_score = min(scores)
     for stud_name, stud_score in details:
         if stud_score != min_score:
-            details2.append([stud_name,stud_score])
+            details2.append([stud_name, stud_score])
             scores2.append(stud_score)
     x = min(scores2)
-    for i,val in details2:
+    for i, val in details2:
         if val == x:
             names.append(i)
     names.sort()
